@@ -1,0 +1,23 @@
+.nose {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    color: blue;
+    background-color: aqua;
+    font-size: 25px;
+
+}
+.nose_1{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-content: center;
+}
+
+.listas {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+}
